@@ -80,7 +80,7 @@ services:
     image: postgis/postgis:13-3.4-alpine
     environment:
       POSTGRES_PASSWORD: secret
-      POSTGRES_DB: directus
+      POSTGRES_DB: shiritai
     ports:
       - 5100:5432
 
