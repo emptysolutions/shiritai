@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automatisch (Systemeinstellung folgen)
 theme_light: Heller Modus
 theme_dark: Dunkler Modus
-theme_directus_default: Directus Standard
-theme_directus_minimal: Directus Minimal
-theme_directus_colormatch: Directus Farbabstimmung
+theme_directus_default: Shiritai Standard
+theme_directus_minimal: Shiritai Minimal
+theme_directus_colormatch: Shiritai Farbabstimmung
 not_available_for_type: Nicht verfügbar für diesen Typ
 create_translations: Übersetzungen erstellen
 auto_refresh: Auto-Aktualisierung
@@ -1194,8 +1194,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Einblicke** — Liste der Dashboards, auf welche Sie Zugriff haben.'
 page_help_insights_dashboard: '**Dashboard** — Arbeitsbereich für die Verwaltung von einer oder mehreren Panels'
 page_help_marketplace_account: '**Benutzerkonto** — Herausgeber oder Betreuer einer veröffentlichten Erweiterung.'
-page_help_marketplace_registry: '**Registry** — Im Directus Marketplace verfügbare Erweiterungen.'
-page_help_marketplace_extension: '**Erweiterung** — Erweiterung im Directus Marketplace.'
+page_help_marketplace_registry: '**Registry** — Im Shiritai Marketplace verfügbare Erweiterungen.'
+page_help_marketplace_extension: '**Erweiterung** — Erweiterung im Shiritai Marketplace.'
 activity_feed: Aktivitätenverlauf
 add_new: Neu erstellen
 create_new: Neu anlegen

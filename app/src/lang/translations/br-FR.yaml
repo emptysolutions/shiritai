@@ -1043,7 +1043,7 @@ interfaces:
     recursive_only: Gwel gwezheñvel evit an darempredoù rekursivel hepken.
   user:
     user: Implijer
-    description: Dibab un implijer directus a zo dija
+    description: Dibab un implijer shiritai a zo dija
     select_mode: Dibab ur mod
     modes:
       auto: Emgefreek
@@ -1166,7 +1166,7 @@ displays:
     description: Diskwel an talvoudoù deuet eus un darempred
   user:
     user: Implijer
-    description: Diskwel un implijer directus
+    description: Diskwel un implijer shiritai
     name: Anv
     both: Holl
     circle_label: Diskwel an implijer en ur c'helc'h

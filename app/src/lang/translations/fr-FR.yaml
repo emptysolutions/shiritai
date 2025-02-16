@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automatique (basé sur le système)
 theme_light: Mode Clair
 theme_dark: Mode Sombre
-theme_directus_default: Directus par défaut
-theme_directus_minimal: Directus Minimale
-theme_directus_colormatch: Correspondance de couleur de Directus
+theme_directus_default: Shiritai par défaut
+theme_directus_minimal: Shiritai Minimale
+theme_directus_colormatch: Correspondance de couleur de Shiritai
 not_available_for_type: Non disponible pour ce type
 create_translations: Créer des traductions
 auto_refresh: Actualisation automatique
@@ -1193,8 +1193,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Aperçus** — Liste des tableaux de bord auxquels vous avez accès.'
 page_help_insights_dashboard: '**Tableau de bord** — Espace de travail pour gérer un ou plusieurs panneaux'
 page_help_marketplace_account: '**Compte** — Éditeur ou mainteneur d''une extension publiée.'
-page_help_marketplace_registry: '**Enregistrement** — Extensions disponibles sur le Marketplace Directus.'
-page_help_marketplace_extension: '**Extension** — Extension sur le Marketplace Directus.'
+page_help_marketplace_registry: '**Enregistrement** — Extensions disponibles sur le Marketplace Shiritai.'
+page_help_marketplace_extension: '**Extension** — Extension sur le Marketplace Shiritai.'
 activity_feed: Flux d'activité
 add_new: Nouveau
 create_new: Nouveau
@@ -1994,7 +1994,7 @@ interfaces:
     recursive_only: La vue en arborescence ne fonctionne que pour les relations récursives.
   user:
     user: Utilisateur
-    description: Sélectionner un utilisateur directus existant
+    description: Sélectionner un utilisateur shiritai existant
     select_mode: Sélectionner un mode
     modes:
       auto: Auto
@@ -2189,7 +2189,7 @@ displays:
     display_template_configure_notice: Vous pourrez configurer le modèle d'affichage après avoir créé ce champ.
   user:
     user: Utilisateur
-    description: Afficher un utilisateur directus
+    description: Afficher un utilisateur shiritai
     avatar: Avatar
     name: Nom
     both: Tous

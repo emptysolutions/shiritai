@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automatyczne (Oparte na systemie)
 theme_light: Tryb jasny
 theme_dark: Tryb ciemny
-theme_directus_default: Domyślny Directus
-theme_directus_minimal: Minimalny Directus
-theme_directus_colormatch: Dopasowanie kolorów Directus
+theme_directus_default: Domyślny Shiritai
+theme_directus_minimal: Minimalny Shiritai
+theme_directus_colormatch: Dopasowanie kolorów Shiritai
 not_available_for_type: Niedostępne dla tego typu
 create_translations: Utwórz tłumaczenia
 auto_refresh: Automatyczne odświeżanie
@@ -1178,8 +1178,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Insights** - Lista pulpitów, do których masz dostęp.'
 page_help_insights_dashboard: '**Pulpit** - Obszar roboczy do zarządzania jednym lub kilkoma panelami'
 page_help_marketplace_account: '**Konto** — Wydawca lub zarządzający opublikowanym rozszerzeniem.'
-page_help_marketplace_registry: '**Rejestr** — Rozszerzenia dostępne w Directus Marketplace.'
-page_help_marketplace_extension: '**Rozszerzenie** — Rozszerzenie w Directus Marketplace.'
+page_help_marketplace_registry: '**Rejestr** — Rozszerzenia dostępne w Shiritai Marketplace.'
+page_help_marketplace_extension: '**Rozszerzenie** — Rozszerzenie w Shiritai Marketplace.'
 activity_feed: Kanał aktywności
 add_new: Dodaj nowy
 create_new: Utwórz nowy

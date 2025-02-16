@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automático (Baseado no Sistema)
 theme_light: Modo Claro
 theme_dark: Modo Escuro
-theme_directus_default: Padrão Directus
-theme_directus_minimal: Mínimo Directus
-theme_directus_colormatch: Correspondência de cor Directus
+theme_directus_default: Padrão Shiritai
+theme_directus_minimal: Mínimo Shiritai
+theme_directus_colormatch: Correspondência de cor Shiritai
 not_available_for_type: Não disponível para este tipo
 create_translations: Criar Traduções
 auto_refresh: Atualização automática
@@ -1194,8 +1194,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Visões** — Lista de painéis que aos quais você tem acesso.'
 page_help_insights_dashboard: '**Dashboard** — Área de trabalho para gerenciar um ou mais painéis'
 page_help_marketplace_account: '**Conta** — Criador ou atual desenvolvedor de uma extensão publicada.'
-page_help_marketplace_registry: '**Registro** — Extensões disponíveis no Directus Marketplace.'
-page_help_marketplace_extension: '**Extensão** — Extensão do Directus.'
+page_help_marketplace_registry: '**Registro** — Extensões disponíveis no Shiritai Marketplace.'
+page_help_marketplace_extension: '**Extensão** — Extensão do Shiritai.'
 activity_feed: Feed de atividade
 add_new: Adicionar Novo
 create_new: Criar novo
@@ -1996,7 +1996,7 @@ interfaces:
     recursive_only: A interface de exibição em árvore só funciona para relações recursivas.
   user:
     user: Usuário
-    description: Selecione um usuário Directus existente
+    description: Selecione um usuário Shiritai existente
     select_mode: Selecionar modo
     modes:
       auto: Automático
@@ -2191,7 +2191,7 @@ displays:
     display_template_configure_notice: Você pode configurar o modelo de exibição após criar este campo.
   user:
     user: Usuário
-    description: Exibe um usuário do Directus
+    description: Exibe um usuário do Shiritai
     avatar: Imagem de Perfil
     name: Nome
     both: Ambos

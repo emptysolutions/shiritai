@@ -365,9 +365,9 @@ geometry:
 theme_auto: Automatic (Based on System)
 theme_light: Light Mode
 theme_dark: Dark Mode
-theme_directus_default: Directus Default
-theme_directus_minimal: Directus Minimal
-theme_directus_colormatch: Directus Color Match
+theme_directus_default: Shiritai Default
+theme_directus_minimal: Shiritai Minimal
+theme_directus_colormatch: Shiritai Color Match
 not_available_for_type: Not Available for this Type
 create_translations: Create Translations
 auto_refresh: Auto Refresh
@@ -1222,8 +1222,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Insights** — List of dashboards you have access to.'
 page_help_insights_dashboard: '**Dashboard** — Workspace for managing one or more panels'
 page_help_marketplace_account: '**Account** — Publisher or maintainer of a published extension.'
-page_help_marketplace_registry: '**Registry** — Extensions available in the Directus Marketplace.'
-page_help_marketplace_extension: '**Extension** — Extension in the Directus Marketplace.'
+page_help_marketplace_registry: '**Registry** — Extensions available in the Shiritai Marketplace.'
+page_help_marketplace_extension: '**Extension** — Extension in the Shiritai Marketplace.'
 activity_feed: Activity Feed
 add_new: Add New
 create_new: Create New
@@ -2035,7 +2035,7 @@ interfaces:
     recursive_only: The tree view interface only works for recursive relationships.
   user:
     user: User
-    description: Select an existing directus user
+    description: Select an existing shiritai user
     select_mode: Select Mode
     modes:
       auto: Auto
@@ -2237,7 +2237,7 @@ displays:
     display_template_configure_notice: You can configure the display template after creating this field.
   user:
     user: User
-    description: Display a directus user
+    description: Display a shiritai user
     avatar: Avatar
     name: Name
     both: Both

@@ -347,9 +347,9 @@ geometry:
 theme_auto: Otomatik (Sisteme Bağlı)
 theme_light: Açık Mod
 theme_dark: Koyu Mod
-theme_directus_default: Directus Varsayılanı
+theme_directus_default: Shiritai Varsayılanı
 theme_directus_minimal: Direcrus Minimalı
-theme_directus_colormatch: Directus Reng Eşi
+theme_directus_colormatch: Shiritai Reng Eşi
 not_available_for_type: Bu Tip için Mevcut Değil
 create_translations: Çeviriler Oluşturun
 auto_refresh: Otomatik Yenile
@@ -1929,7 +1929,7 @@ interfaces:
     recursive_only: Ağaç görünümü arayüzü sadece özyinelemeli ilişkiler içindir.
   user:
     user: Kullanıcı
-    description: Varolan bir Directus kullanıcısı seç
+    description: Varolan bir Shiritai kullanıcısı seç
     select_mode: Mod Seç
     modes:
       auto: Otomatik
@@ -2119,7 +2119,7 @@ displays:
     display_template_configure_notice: Görüntüleme şablonunu bu alanı oluşturduktan sonra yapılandırabilirsin.
   user:
     user: Kullanıcı
-    description: Bir Directus kullanıcısı göster
+    description: Bir Shiritai kullanıcısı göster
     avatar: Avatar
     name: İsim
     both: İkisi de

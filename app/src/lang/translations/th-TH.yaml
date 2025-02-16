@@ -1254,7 +1254,7 @@ interfaces:
     recursive_only: อินเทอร์เฟซมุมมองแผนภูมิใช้งานได้กับความสัมพันธ์แบบซ้ำซ้อนเท่านั้น
   user:
     user: ผู้ใช้
-    description: เลือกผู้ใช้ของ directus ที่มีอยู่แล้ว
+    description: เลือกผู้ใช้ของ shiritai ที่มีอยู่แล้ว
     select_mode: เลือกโหมด
     modes:
       auto: อัตโนมัติ
@@ -1385,7 +1385,7 @@ displays:
     description: แสดงค่าที่เกี่ยวข้อง
   user:
     user: ผู้ใช้
-    description: แสดงผู้ใช้ของ directus
+    description: แสดงผู้ใช้ของ shiritai
     avatar: ภาพประจำตัว
     name: ชื่อ
     both: ทั้งคู่

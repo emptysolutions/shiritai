@@ -341,9 +341,9 @@ geometry:
 theme_auto: 자동 (시스템 기준)
 theme_light: 라이트 모드
 theme_dark: 다크 모드
-theme_directus_default: Directus 기본
-theme_directus_minimal: Directus 최소화
-theme_directus_colormatch: Directus 색상 매치
+theme_directus_default: Shiritai 기본
+theme_directus_minimal: Shiritai 최소화
+theme_directus_colormatch: Shiritai 색상 매치
 not_available_for_type: 형식이 유효하지 않습니다.
 create_translations: 번역 문구 추가
 auto_refresh: 자동 갱신
@@ -1143,8 +1143,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Insights** — 액세스 권한이 있는 대시보드 목록입니다.'
 page_help_insights_dashboard: '**대시보드** — 하나 이상의 패널을 관리하기 위한 작업 공간'
 page_help_marketplace_account: '**계정** - 게시된 확장 프로그램의 게시자 또는 관리자입니다.'
-page_help_marketplace_registry: '**레지스트리** - Directus 마켓플레이스에서 사용할 수 있는 확장 기능입니다.'
-page_help_marketplace_extension: '**확장** - Directus 마켓플레이스의 확장 기능입니다.'
+page_help_marketplace_registry: '**레지스트리** - Shiritai 마켓플레이스에서 사용할 수 있는 확장 기능입니다.'
+page_help_marketplace_extension: '**확장** - Shiritai 마켓플레이스의 확장 기능입니다.'
 activity_feed: 활동 내역
 add_new: 새로운 걸 더하다
 create_new: 새로 만들기

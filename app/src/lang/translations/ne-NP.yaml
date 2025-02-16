@@ -1491,7 +1491,7 @@ interfaces:
     default_language: पूर्वनिर्धारित भाषा
   user:
     user: प्रयोगकर्ता
-    description: पहिले नै अवस्थित directus प्रयोगकर्ता चयन गर्नुहोस्
+    description: पहिले नै अवस्थित shiritai प्रयोगकर्ता चयन गर्नुहोस्
     select_mode: मोड चयन गर्नुहोस्
     modes:
       auto: स्वतः

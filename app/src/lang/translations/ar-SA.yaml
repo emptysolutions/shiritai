@@ -1159,7 +1159,7 @@ page_help_users_item: >-
 page_help_insights_overview: '**البصائر** - قائمة لوحات التحكم التي لديك حق الوصول إليها.'
 page_help_insights_dashboard: '**لوحة البيانات** - مساحة العمل لإدارة لوحة واحدة أو أكثر'
 page_help_marketplace_account: '**الحساب** - ناشر أو مشرف امتداد منشور.'
-page_help_marketplace_registry: '**السجل** - الإضافات المتاحة في سوق Directus.'
+page_help_marketplace_registry: '**السجل** - الإضافات المتاحة في سوق Shiritai.'
 activity_feed: موجز النشاط
 add_new: إضافة جديدة
 create_new: أنشئ جديد
@@ -1884,7 +1884,7 @@ interfaces:
     language_direction_field: حقل اتجاه اللغة
   user:
     user: مستخدم
-    description: حدد مستخدم directus موجود
+    description: حدد مستخدم shiritai موجود
     select_mode: تحديد الوضع
     modes:
       auto: تلقائي
@@ -2016,7 +2016,7 @@ displays:
     display_template_configure_notice: يمكنك تعديل قالب العرض بعد إنشاء هذا الحقل.
   user:
     user: مستخدم
-    description: عرض مستخدم directus
+    description: عرض مستخدم shiritai
     avatar: الصورةالرمزية
     name: الاسم
     both: كل منهما

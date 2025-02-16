@@ -306,8 +306,8 @@ geometry:
 theme_auto: Automático (baseado no sistema)
 theme_light: Modo Claro
 theme_dark: Modo Escuro
-theme_directus_default: Directus padrão
-theme_directus_minimal: Directus Mínimo
+theme_directus_default: Shiritai padrão
+theme_directus_minimal: Shiritai Mínimo
 not_available_for_type: Não disponível para este tipo
 create_translations: Criar traduções
 auto_refresh: Atualização Automática

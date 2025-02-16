@@ -1698,7 +1698,7 @@ interfaces:
     recursive_only: Trævisningsgrænsefladen virker kun for rekursive relationer.
   user:
     user: Bruger
-    description: Vælg en eksisterende directus bruger
+    description: Vælg en eksisterende shiritai bruger
     select_mode: Vælg tilstand
     modes:
       auto: Automatisk
@@ -1874,7 +1874,7 @@ displays:
     display_template_configure_notice: Du kan konfigurere skærmskabelonen efter oprettelse af dette felt.
   user:
     user: Bruger
-    description: Vis en directus bruger
+    description: Vis en shiritai bruger
     avatar: Profilbillede
     name: Navn
     both: Begge

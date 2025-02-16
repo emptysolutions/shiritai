@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automatik (Bazuar në Sistem)
 theme_light: Modaliteti i Ndriçimit
 theme_dark: Modaliteti i Errësirës
-theme_directus_default: Parazgjedhja e Directus
-theme_directus_minimal: Directus Minimal
-theme_directus_colormatch: Përshtatja e Ngjyrave të Directus
+theme_directus_default: Parazgjedhja e Shiritai
+theme_directus_minimal: Shiritai Minimal
+theme_directus_colormatch: Përshtatja e Ngjyrave të Shiritai
 not_available_for_type: Nuk është i Disponueshëm për këtë Lloj
 create_translations: Krijo përkthime
 auto_refresh: Rifreskim Automatik
@@ -1191,8 +1191,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Insights** — Lista e kokpitëve të cilave ke qasje.'
 page_help_insights_dashboard: '**Dashboard** — Hapësira për menaxhimin e një ose më shumë paneleve'
 page_help_marketplace_account: '**Llogari** — Botues ose mirëmbajtës i një zgjerimi të publikuar.'
-page_help_marketplace_registry: '**Regjistri** — Zgjerime të disponueshme në Tregun e Directus.'
-page_help_marketplace_extension: '**Zgjerim** — Zgjerim në Tregun e Directus.'
+page_help_marketplace_registry: '**Regjistri** — Zgjerime të disponueshme në Tregun e Shiritai.'
+page_help_marketplace_extension: '**Zgjerim** — Zgjerim në Tregun e Shiritai.'
 activity_feed: Feed Aktiviteti
 add_new: Shto të Ri
 create_new: Krijo të Ri
@@ -1993,7 +1993,7 @@ interfaces:
     recursive_only: Ndërfaqja e pamjes së pemës funksionon vetëm për marrëdhëniet e përsëritura.
   user:
     user: Përdorues
-    description: Zgjidh një përdorues ekzistues të directus
+    description: Zgjidh një përdorues ekzistues të shiritai
     select_mode: Mënyra e Zgjedhjes
     modes:
       auto: Automatik
@@ -2188,7 +2188,7 @@ displays:
     display_template_configure_notice: Mund të konfigurosh shabllonin e shfaqjes pas krijimit të kësaj fushe.
   user:
     user: Përdorues
-    description: Shfaq një përdorues të directus
+    description: Shfaq një përdorues të shiritai
     avatar: Avatar
     name: Emri
     both: Të dyja

@@ -340,9 +340,9 @@ geometry:
 theme_auto: Автоматично (въз основа на системата)
 theme_light: Светъл режим
 theme_dark: Тъмен режим
-theme_directus_default: Directus по подразбиране
-theme_directus_minimal: Directus минимално
-theme_directus_colormatch: Directus Съвпадение на цветовете
+theme_directus_default: Shiritai по подразбиране
+theme_directus_minimal: Shiritai минимално
+theme_directus_colormatch: Shiritai Съвпадение на цветовете
 not_available_for_type: Не е налично за типът
 create_translations: Създаване на преводи
 auto_refresh: Автоматично опресняване
@@ -1137,8 +1137,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Задълбочен анализ** — Показване на всички налични табла до които имате достъп.'
 page_help_insights_dashboard: '**Табло** — Работен плот за управление на един или множество панели'
 page_help_marketplace_account: '**Акаунт** — Издател или поддържащ публикувано разширение.'
-page_help_marketplace_registry: '**Регистър** — Разширения, налични в Directus Marketplace.'
-page_help_marketplace_extension: '**Разширение** — Разширение в Directus Marketplace.'
+page_help_marketplace_registry: '**Регистър** — Разширения, налични в Shiritai Marketplace.'
+page_help_marketplace_extension: '**Разширение** — Разширение в Shiritai Marketplace.'
 activity_feed: Поток на активността
 add_new: Добави нов запис
 create_new: Създаване
@@ -2082,7 +2082,7 @@ displays:
     display_template_configure_notice: Шаблонът за показване може да бъде настроен и след създаването на полето.
   user:
     user: Потребител
-    description: Показване на потребител от Directus
+    description: Показване на потребител от Shiritai
     avatar: Аватар
     name: Име
     both: Всички

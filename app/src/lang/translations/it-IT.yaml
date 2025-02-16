@@ -1193,8 +1193,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Approfondimenti** — Elenco delle bacheche a cui hai accesso.'
 page_help_insights_dashboard: '**Bacheca** — Spazio di lavoro per gestire uno o più pannelli'
 page_help_marketplace_account: '**Account** — Editore o responsabile di un''estensione pubblicata.'
-page_help_marketplace_registry: '**Registry** — Estensioni disponibili nel Marketplace di Directus.'
-page_help_marketplace_extension: '**Estensione** — Estensione nel Marketplace di Directus.'
+page_help_marketplace_registry: '**Registry** — Estensioni disponibili nel Marketplace di Shiritai.'
+page_help_marketplace_extension: '**Estensione** — Estensione nel Marketplace di Shiritai.'
 activity_feed: Feed Attività
 add_new: Aggiungi nuovo
 create_new: Crea Nuovo
@@ -1995,7 +1995,7 @@ interfaces:
     recursive_only: L'interfaccia di visualizzazione ad albero funziona solo per le relazioni ricorsive.
   user:
     user: Utente
-    description: Seleziona un utente di directus esistente
+    description: Seleziona un utente di shiritai esistente
     select_mode: Seleziona la modalità
     modes:
       auto: Automatica
@@ -2190,7 +2190,7 @@ displays:
     display_template_configure_notice: Puoi configurare il template di visualizzazione dopo aver creato il campo.
   user:
     user: Utente
-    description: Mostra un utente directus
+    description: Mostra un utente shiritai
     avatar: Avatar
     name: Nome
     both: Tutti e due

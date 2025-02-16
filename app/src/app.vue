@@ -26,10 +26,10 @@ const brandStyleCss = computed(() => {
 
 useHead({
 	style: [{ textContent: brandStyleCss }],
-	title: 'Directus',
+	title: 'Shiritai',
 	titleTemplate: '%s · %projectName',
 	templateParams: {
-		projectName: computed(() => serverStore.info?.project?.project_name ?? 'Directus'),
+		projectName: computed(() => serverStore.info?.project?.project_name ?? 'Shiritai'),
 	},
 	meta: computed(() => {
 		const content = serverStore.info?.project?.project_color ?? '#6644ff';
@@ -83,13 +83,8 @@ useSystem();
 </script>
 
 <template>
-	<ThemeProvider
-		:dark-mode="darkMode"
-		:theme-light="themeLight"
-		:theme-dark="themeDark"
-		:theme-light-overrides="themeLightOverrides"
-		:theme-dark-overrides="themeDarkOverrides"
-	/>
+	<ThemeProvider :dark-mode="darkMode" :theme-light="themeLight" :theme-dark="themeDark"
+		:theme-light-overrides="themeLightOverrides" :theme-dark-overrides="themeDarkOverrides" />
 
 	<div id="directus">
 		<transition name="fade">

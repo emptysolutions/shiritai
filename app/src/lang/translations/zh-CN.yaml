@@ -1193,8 +1193,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Insights** — 您可以访问的工作台列表。'
 page_help_insights_dashboard: '**仪表盘** — 管理工作区面板'
 page_help_marketplace_account: '**Account** - 发布者或已发布扩展的维护者。'
-page_help_marketplace_registry: '**Registry** — Directus 市场中提供的扩展。'
-page_help_marketplace_extension: '**Extension** — Directus 市场中提供的扩展。'
+page_help_marketplace_registry: '**Registry** — Shiritai 市场中提供的扩展。'
+page_help_marketplace_extension: '**Extension** — Shiritai 市场中提供的扩展。'
 activity_feed: 活动摘要
 add_new: 新增
 create_new: 新建

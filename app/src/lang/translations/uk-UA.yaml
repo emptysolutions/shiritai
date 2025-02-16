@@ -350,9 +350,9 @@ geometry:
 theme_auto: Автоматично (залежно від системи)
 theme_light: Світлий режим
 theme_dark: Темний режим
-theme_directus_default: Directus за замовчуванням
-theme_directus_minimal: Directus мінімальний
-theme_directus_colormatch: Directus збіг кольорів
+theme_directus_default: Shiritai за замовчуванням
+theme_directus_minimal: Shiritai мінімальний
+theme_directus_colormatch: Shiritai збіг кольорів
 not_available_for_type: Не доступно для цього типу
 create_translations: Створити переклади
 auto_refresh: Автооновлення
@@ -1193,8 +1193,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Інсайти** — список інформаційних панелей, до яких ви маєте доступ.'
 page_help_insights_dashboard: '**Інформаційна панель** — Робоча область для керування однією або кількома панелями.'
 page_help_marketplace_account: '**Обліковий запис** – видавець або адміністратор опублікованого розширення.'
-page_help_marketplace_registry: '**Реєстр** - розширення, доступні в Directus Marketplace.'
-page_help_marketplace_extension: '**Розширення** - розширення в Directus Marketplace.'
+page_help_marketplace_registry: '**Реєстр** - розширення, доступні в Shiritai Marketplace.'
+page_help_marketplace_extension: '**Розширення** - розширення в Shiritai Marketplace.'
 activity_feed: Стрічка активності
 add_new: Створити
 create_new: Створити нову

@@ -1526,7 +1526,7 @@ interfaces:
     default_language: Standaardtaal
   user:
     user: Gebruiker
-    description: Selecteer een bestaande Directus gebruiker
+    description: Selecteer een bestaande Shiritai gebruiker
     select_mode: Selecteer modus
     modes:
       auto: Automatisch
@@ -1652,7 +1652,7 @@ displays:
     description: Relatieve waarden weergeven
   user:
     user: Gebruiker
-    description: Toon een directus gebruiker
+    description: Toon een shiritai gebruiker
     avatar: Profielafbeelding
     name: Naam
     both: Beiden

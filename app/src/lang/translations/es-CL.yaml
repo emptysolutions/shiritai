@@ -202,7 +202,7 @@ archive_confirm: '¿Estás seguro de archivar este ítem?'
 archive_confirm_count: >-
   No hay elementos seleccionados | ¿Estás seguro de archivar este ítem? | ¿Estás seguro de archivar estos {count} ítems?
 reset_system_permissions_to: 'Restablecer permisos del sistema a:'
-reset_system_permissions_copy: Esta acción sobrescribirá cualquier permiso personalizado que hayas aplicado a las colecciones de Directus. ¿Estás seguro?
+reset_system_permissions_copy: Esta acción sobrescribirá cualquier permiso personalizado que hayas aplicado a las colecciones de Shiritai. ¿Estás seguro?
 the_following_are_minimum_permissions: Los siguientes permisos mínimos se aplican automáticamente cuando "Acceso a aplicaciones" está habilitado. Puedes conceder permisos adicionales si es necesario, pero no puedes restringir permisos por debajo de este nivel.
 app_access_minimum: Acceso mínimo a la app
 recommended_defaults: Valores recomendados
@@ -350,9 +350,9 @@ geometry:
 theme_auto: Automático (basado en el sistema)
 theme_light: Modo Claro
 theme_dark: Modo Oscuro
-theme_directus_default: Directus Por Defecto
-theme_directus_minimal: Directus Minimal
-theme_directus_colormatch: Directus coincidencia de color
+theme_directus_default: Shiritai Por Defecto
+theme_directus_minimal: Shiritai Minimal
+theme_directus_colormatch: Shiritai coincidencia de color
 not_available_for_type: No disponible para este Tipo
 create_translations: Crear Traducciones
 auto_refresh: Actualización automática
@@ -1193,8 +1193,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Diseños** — Lista de paneles a los que tienes acceso.'
 page_help_insights_dashboard: '**Panel de control** — Espacio de trabajo para administrar uno o más paneles'
 page_help_marketplace_account: '**Cuenta** — Editor o mantenedor de una extensión publicada.'
-page_help_marketplace_registry: '**Registro** — Extensiones disponibles en el Marketplace de Directus.'
-page_help_marketplace_extension: '**Extensión** — Extensión en el Marketplace de Directus.'
+page_help_marketplace_registry: '**Registro** — Extensiones disponibles en el Marketplace de Shiritai.'
+page_help_marketplace_extension: '**Extensión** — Extensión en el Marketplace de Shiritai.'
 activity_feed: Actividad
 add_new: Añadir Nuevo
 create_new: Crear Nuevo
@@ -1995,7 +1995,7 @@ interfaces:
     recursive_only: La interfaz de vista en árbol sólo funciona para relaciones recursivas.
   user:
     user: Usuario
-    description: Seleccionar un usuario existente de Directus
+    description: Seleccionar un usuario existente de Shiritai
     select_mode: Seleccionar Modo
     modes:
       auto: Automático
@@ -2190,7 +2190,7 @@ displays:
     display_template_configure_notice: Puede configurar la plantilla de pantalla después de crear este campo.
   user:
     user: Usuario
-    description: Presentar un usuario de Directus
+    description: Presentar un usuario de Shiritai
     avatar: Avatar
     name: Nombre
     both: Ambos

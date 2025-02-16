@@ -348,9 +348,9 @@ geometry:
 theme_auto: Automaticky (podľa systému)
 theme_light: Svetlý režim
 theme_dark: Tmavý režim
-theme_directus_default: Directus predvolené
-theme_directus_minimal: Directus minimum
-theme_directus_colormatch: Zosúladenie farieb Directus
+theme_directus_default: Shiritai predvolené
+theme_directus_minimal: Shiritai minimum
+theme_directus_colormatch: Zosúladenie farieb Shiritai
 not_available_for_type: Nedostupné pre tento typ
 create_translations: Vytvoriť preklady
 auto_refresh: Auto obnovenie
@@ -1191,8 +1191,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Prehľady** — Zoznam tabúľ, ku ktorým máte prístup.'
 page_help_insights_dashboard: '**Tabuľa** — Pracovný priestor na spravovanie jedného alebo viac panelov'
 page_help_marketplace_account: '**Účet** — Vydavateľ alebo správca zverejneného rozšírenia.'
-page_help_marketplace_registry: '**Register** — Rozšírenie dostupné v Directus trhovisku.'
-page_help_marketplace_extension: '**Rozšírenie** — Rozšírenie v Directus trhovisku.'
+page_help_marketplace_registry: '**Register** — Rozšírenie dostupné v Shiritai trhovisku.'
+page_help_marketplace_extension: '**Rozšírenie** — Rozšírenie v Shiritai trhovisku.'
 activity_feed: Záznam aktivít
 add_new: Pridať nový
 create_new: Vytvoriť nové
@@ -1991,7 +1991,7 @@ interfaces:
     recursive_only: Rozhranie stromového zobrazenia funguje len na rekurzívne relácie.
   user:
     user: Používateľ
-    description: Vyberte existujúceho directus používateľa
+    description: Vyberte existujúceho shiritai používateľa
     select_mode: Vybrať režim
     modes:
       auto: Auto
@@ -2186,7 +2186,7 @@ displays:
     display_template_configure_notice: Šablónu zobrazenia môžete nastaviť po vytvorení tohoto poľa.
   user:
     user: Používateľ
-    description: Zobrazí directus používateľa
+    description: Zobrazí shiritai používateľa
     avatar: Avatar
     name: Meno
     both: Oboje

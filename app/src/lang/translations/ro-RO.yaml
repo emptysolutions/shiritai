@@ -1620,7 +1620,7 @@ interfaces:
     recursive_only: Interfața de vizualizare ramificată funcționează numai pentru relații recursive.
   user:
     user: Utilizator
-    description: Selectați un utilizator directus existent
+    description: Selectați un utilizator shiritai existent
     select_mode: Selectați modul
     modes:
       auto: Automat
@@ -1778,7 +1778,7 @@ displays:
     display_template_configure_notice: Puteți configura șablonul de afișare după crearea acestui câmp.
   user:
     user: Utilizator
-    description: Afișează un utilizator directus
+    description: Afișează un utilizator shiritai
     avatar: Avatar
     name: Nume
     both: Ambele

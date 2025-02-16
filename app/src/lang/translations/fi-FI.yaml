@@ -1503,7 +1503,7 @@ interfaces:
     recursive_only: Puunäkymäliittymä toimii vain rekursiivisille suhteille.
   user:
     user: Käyttäjänimi
-    description: Valitse olemassaoleva directus-käyttäjä
+    description: Valitse olemassaoleva shiritai-käyttäjä
     select_mode: Valitse tila
     modes:
       auto: Automaattinen
@@ -1647,7 +1647,7 @@ displays:
     description: Näytä suhteelliset arvot
   user:
     user: Käyttäjänimi
-    description: Näytä directus-käyttäjä
+    description: Näytä shiritai-käyttäjä
     avatar: Avatari
     name: Nimi
     both: Molemmat

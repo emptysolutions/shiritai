@@ -1643,7 +1643,7 @@ interfaces:
     recursive_only: A fa nézet felület csak rekurzív kapcsolatok esetén működik.
   user:
     user: Felhasználó
-    description: Válasszon ki egy létező directus felhasználót!
+    description: Válasszon ki egy létező shiritai felhasználót!
     select_mode: Kiválasztott mód
     modes:
       auto: Automatikus
@@ -1821,7 +1821,7 @@ displays:
     display_template_configure_notice: A mező létrehozása után konfigurálhatod a megjelenő sablont.
   user:
     user: Felhasználó
-    description: Egy directus felhasználó megjelenítése
+    description: Egy shiritai felhasználó megjelenítése
     avatar: Profilkép
     name: Név
     both: Mindkettő

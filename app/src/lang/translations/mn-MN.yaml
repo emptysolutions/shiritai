@@ -350,9 +350,9 @@ geometry:
 theme_auto: Автомат (Системийн тохиргоо)
 theme_light: Өдрийн горим
 theme_dark: Шөнийн горим
-theme_directus_default: Directus өгөгдмөл
-theme_directus_minimal: Directus минимал
-theme_directus_colormatch: Directus өнгөний зохицол
+theme_directus_default: Shiritai өгөгдмөл
+theme_directus_minimal: Shiritai минимал
+theme_directus_colormatch: Shiritai өнгөний зохицол
 not_available_for_type: Энэ төрөлд боломжгүй
 create_translations: Орчуулга үүсгэх
 auto_refresh: Автоматаар шинэчлэх
@@ -1191,8 +1191,8 @@ page_help_users_item: >-
 page_help_insights_overview: '**Аналитик* — Таны хандаж болох хянах самбруудын жагсаалт.'
 page_help_insights_dashboard: '**Хянах самбар** — Нэг эсвэл хэд хэдэн самбар удирдах ажлын талбар'
 page_help_marketplace_account: '**Бүртгэл* — Нийтэлсэн хэрэгслийн нийтлэгч эсвэл засварлагч.'
-page_help_marketplace_registry: '**Бүртгэл* — Directus нэмэлт хэрэгсэлд байрлах боломжтой хэрэгслүүд.'
-page_help_marketplace_extension: '**Хэрэгсэл** — Directus нэмэлт хэрэгсэл дэх хэрэгсэл.'
+page_help_marketplace_registry: '**Бүртгэл* — Shiritai нэмэлт хэрэгсэлд байрлах боломжтой хэрэгслүүд.'
+page_help_marketplace_extension: '**Хэрэгсэл** — Shiritai нэмэлт хэрэгсэл дэх хэрэгсэл.'
 activity_feed: Үйл ажиллагааны хангамж
 add_new: Шинээр нэмэх
 create_new: Шинээр үүсгэх
@@ -1993,7 +1993,7 @@ interfaces:
     recursive_only: Мод хэлбэрээр харах интерфэйс нь зөвхөн рекурсив харилцаанд ажиллана.
   user:
     user: Хэрэглэгч
-    description: Одоо байгаа Directus хэрэглэгчийг сонгох
+    description: Одоо байгаа Shiritai хэрэглэгчийг сонгох
     select_mode: Горим сонгох
     modes:
       auto: Автомат
@@ -2188,7 +2188,7 @@ displays:
     display_template_configure_notice: Энэ талбарыг үүсгэсний дараа харагдах байдлын загварыг тохируулж болно.
   user:
     user: Хэрэглэгч
-    description: Directus хэрэглэгчийг харуулах
+    description: Shiritai хэрэглэгчийг харуулах
     avatar: Хөрөг зураг
     name: Нэр
     both: Хоёул

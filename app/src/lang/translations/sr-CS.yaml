@@ -1093,7 +1093,7 @@ interfaces:
     recursive_only: Interfejs u prikazu stabla radi samo u slučajevima rekurzivnih relacija.
   user:
     user: Korisnik
-    description: Odaberi postojećeg directus korisnika
+    description: Odaberi postojećeg shiritai korisnika
     select_mode: Način Odabira
     modes:
       auto: Automatski
@@ -1219,7 +1219,7 @@ displays:
     description: Prikaži povezane vrijednosti
   user:
     user: Korisnik
-    description: Prikaži directus korisnika
+    description: Prikaži shiritai korisnika
     avatar: Avatar
     name: Ime
     both: Oba
