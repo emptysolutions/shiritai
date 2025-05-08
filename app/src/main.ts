@@ -19,13 +19,13 @@ import { registerViews } from './views/register';
 init();
 
 async function init() {
-	console.log(DIRECTUS_LOGO);
+	// console.log(DIRECTUS_LOGO);
 
-	console.info(
-		`Hey! Interested in helping build this open-source data management platform?\nIf so, join our growing team of contributors at: https://directus.chat`,
-	);
+	// console.info(
+	// 	`Hey! Interested in helping build this open-source data management platform?\nIf so, join our growing team of contributors at: https://directus.chat`,
+	// );
 
-	console.info(`%c🐰 Starting Directus...`, 'color:Green');
+	console.info(`%c🐰 Starting Shiritai...`, 'color:Green');
 
 	console.time('🕓 Application Loaded');
 

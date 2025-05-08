@@ -81,10 +81,10 @@ const links = computed<Link[][]>(() => [
 	[
 		info.value.websocket && info.value.websocket.logs
 			? {
-					icon: 'terminal',
-					name: t('settings_system_logs'),
-					to: `/settings/system-logs`,
-			  }
+				icon: 'terminal',
+				name: t('settings_system_logs'),
+				to: `/settings/system-logs`,
+			}
 			: undefined,
 		{
 			icon: 'bug_report',
@@ -116,12 +116,12 @@ const links = computed<Link[][]>(() => [
 			<v-divider v-if="index !== links.length - 1" :key="index" />
 		</template>
 
-		<v-list-item href="https://github.com/directus/directus/releases" class="version">
+		<!-- <v-list-item href="https://github.com/directus/directus/releases" class="version">
 			<v-list-item-icon><v-icon name="directus" /></v-list-item-icon>
 			<v-list-item-content>
 				<v-text-overflow class="version" :text="`Directus ${info.version}`" />
 			</v-list-item-content>
-		</v-list-item>
+		</v-list-item> -->
 	</v-list>
 </template>
 
