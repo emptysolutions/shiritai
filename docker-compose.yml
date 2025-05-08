@@ -76,6 +76,15 @@
 version: '3.8'
 
 services:
+
+  shiritai:
+    image: emptysolutions/shiritai:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8055:8055
+
   postgres:
     image: postgis/postgis:13-3.4-alpine
     environment:
